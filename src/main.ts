@@ -1,3 +1,5 @@
+import "./style.css";
+
 /* ============================================
    Personal Website — Ruihan Cui
    TypeScript + Vite
